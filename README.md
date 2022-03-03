@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="center"><img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="200px"></h2>
 
 <!--
 **eschirni/eschirni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
