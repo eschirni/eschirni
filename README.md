@@ -1,8 +1,8 @@
-<h2 align="center"><img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="200px"></h2>
-
+<h1 align="center"><img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif"></h1>
+<h2 align="center">My name is Elias and I am currently studying in <a href="https://www.42heilbronn.de/en/" target="_blank" rel="noopener noreferrer">42 Heilbronn</a></h2>
 <!--
 **eschirni/eschirni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[42Heilbronn]()
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
