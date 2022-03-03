@@ -5,8 +5,7 @@
 - 🔬I'm currently working on Philosophers<br>
 - ✅My last project was [minishell](https://github.com/eschirni/minishell) with [Tom](https://github.com/tzeck1)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eschirni&show_icons=true&theme=dark&locale=en&layout=compact"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=eschirni&show_icons=true&theme=dark&locale=en"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eschirni&show_icons=true&theme=dark&locale=en&layout=compact"/><img align="center" src="https://github-readme-stats.vercel.app/api?username=eschirni&show_icons=true&theme=dark&locale=en"/>
 <!--
 **eschirni/eschirni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
