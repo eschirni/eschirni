@@ -2,10 +2,21 @@
 <h2 align="center">My name is Elias and I am currently studying in <a href="https://www.42heilbronn.de/en/" target="_blank" rel="noopener noreferrer">42 Heilbronn</a></h2>
 <h3 align="center">I love learning new things!🎓</h3>
 
-- 🔬I'm currently working on [philosophers](https://github.com/eschirni/eschirni/blob/main/en.subject(1).pdf)
-- ✅My last project was [minishell](https://github.com/eschirni/minishell) with [Tom](https://github.com/tzeck1)
+- Github stats:
+<p align="center">
+  <a href="https://github.com/madebypixel02">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=eschirni&show_icons=true&theme=dark&locale=en">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/madebypixel02">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eschirni&theme=dark">
+  </a>
+</p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eschirni&show_icons=true&theme=dark&locale=en&layout=compact"/><img align="center" src="https://github-readme-stats.vercel.app/api?username=eschirni&show_icons=true&theme=dark&locale=en"/>
+- Informations:
+  - 🔬I'm currently working on [philosophers](https://github.com/eschirni/eschirni/blob/main/en.subject(1).pdf)
+  - ✅My last project was [minishell](https://github.com/eschirni/minishell) with [Tom](https://github.com/tzeck1)
 <!--
 **eschirni/eschirni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
