@@ -9,7 +9,7 @@
 
 ### Projects:
   - 🔬I'm currently working on [NetPractice](https://github.com/eschirni/eschirni/blob/main/netpractice.pdf)
-  - ✅My last project was [philosophers](https://github.com/eschirni/eschirni/blob/main/philosophers.pdf)
+  - ✅My last project was [philosophers](https://github.com/eschirni/philosophers)
 
 [![GitHub followers](https://img.shields.io/github/followers/eschirni.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/eschirni?tab=followers)
 ![Profile views](https://gpvc.arturio.dev/eschirni)
