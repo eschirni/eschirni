@@ -8,7 +8,7 @@
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eschirni&theme=monokai&bg_color=,080808,303030&langs_count=3)](https://github.com/eschirni/github-readme-stats)
 
 ### Projects:
-  - 🔬I'm currently working on [cub3d](https://github.com/eschirni/eschirni/blob/main/cub3d.pdf) with [@btenzlin](https://github.com/benzlinger)
+  - 🔬I'm currently working on [cub3d](https://github.com/eschirni/cub3d) with [@btenzlin](https://github.com/benzlinger)
   - ✅My last published project was [philosophers](https://github.com/eschirni/philosophers)
 
 [![GitHub followers](https://img.shields.io/github/followers/eschirni.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/eschirni?tab=followers)
