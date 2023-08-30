@@ -8,7 +8,6 @@
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eschirni&theme=monokai&bg_color=,080808,303030&langs_count=3)](https://github.com/eschirni/github-readme-stats)
 
 ### Projects:
-  - ✅My last published project was [cub3d](https://github.com/eschirni/cub3d) with [@btenzlin](https://github.com/benzlinger)
+  - ✅My last published project was [TrueFeedback](https://github.com/42-Heilbronn/True-Feedback) with [pfuchs](https://github.com/Bluegales)
 
 [![GitHub followers](https://img.shields.io/github/followers/eschirni.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/eschirni?tab=followers)
-![Profile views](https://gpvc.arturio.dev/eschirni)
