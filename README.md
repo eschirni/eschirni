@@ -7,7 +7,7 @@
 </h1>
 
 <h2 align="center">My name is Elias, mastery student at <a href="https://www.42heilbronn.de/en/" target="_blank" rel="noopener noreferrer">42 Heilbronn</a>, co-founder and CTO of <a href="https://www.trav-rec.com" target="_blank" rel="noopener noreferrer">TravRec</a></h2>
-<h3 align="center">I love learning and sharing knowledge!🎓</h3>
+<h3 align="center">AI this, AI that. Why not do it yourself?💻</h3>
 
 <p align=center>✅My last published project was <a href="https://github.com/eschirni/libasm" target="_blank" rel="noopener noreferrer">Libasm</a>, an assembly implementation of a few libc functions</p>
 
